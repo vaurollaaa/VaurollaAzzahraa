@@ -1,0 +1,42 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #fff5f8; 
+}
+
+#logo img {
+    width: 120px;
+}
+
+@media (min-width: 1200px) {
+    .container{
+        max-width: 1000px;
+    }
+}
+
+h2 {
+    font-size: 30px;
+    color: #ff4d79;
+    text-align: center;
+    margin-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h4 {
+    font-size: 22px;
+    color: #ff4d79;
+    text-align: center;
+    margin-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    text-align: center;
+}
+
+.testimonial-box {
+    max-width: 480px; 
+    width: 100%;
+}
